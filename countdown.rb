@@ -8,5 +8,5 @@ def countdown(integer_num)
       seconds -= 1
     end
      
-    "Happy New Year!"
+    "HAPPY NEW YEAR!"
 end
